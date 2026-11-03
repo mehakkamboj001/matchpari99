@@ -5,7 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 export const WHATSAPP_LINK =
-  "https://wa.me/919876543210?text=I%20need%20a%20ID";
+  "https://wa.me/917009784942?text=I%20need%20a%20ID";
 
 const navigation = [
   { href: "/", label: "Home" },
@@ -111,7 +111,7 @@ export function WhatsAppFloat() {
       href={WHATSAPP_LINK}
       target="_blank"
       rel="noreferrer"
-      aria-label="Get an ID on WhatsApp"
+      aria-label="I WANT MATCHPARI 🆔"
     >
       <WhatsAppIcon />
       <span>Get an ID</span>
